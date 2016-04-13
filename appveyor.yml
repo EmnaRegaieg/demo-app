@@ -3,7 +3,7 @@ clone_folder: c:\projects\tempus
 platform: x64
 
 install:
-  - .
+  - C:\Users\Emna\Desktop\GitHub\Tempus\ci\windows
 
 build: off
 test: off
