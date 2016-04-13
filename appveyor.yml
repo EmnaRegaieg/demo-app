@@ -3,7 +3,7 @@ clone_folder: c:\projects\tempus
 platform: x64
 
 install:
-  - ci\windows\build_appveyor.bat
+  - C:\Users\Emna\Desktop\GitHub\Tempus\ci\windows\build_appveyor.bat
 
 build: off
 test: off
